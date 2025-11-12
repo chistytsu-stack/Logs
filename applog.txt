@@ -1,0 +1,1609 @@
+Project Log:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/applog.txt
+**************************
+[12:18:14]start saving project:Untitled(Prop)
+
+[12:18:15]finished saving project, time cost:0.80
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/46bdd852-c92b-4a30-a16c-fe684aca9129(Prop)
+
+[12:18:49]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[12:18:50]patching for data version:1.4.9(Home)
+
+[12:19:03][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+**************************
+[12:22:08]start saving project:3D Text Like Gojo By TANZO-FX(Prop)
+
+[12:22:09]finished saving project, time cost:0.63
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/657c5e12-a232-424c-aaa1-e25282aa6722(Prop)
+
+[12:22:12]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[12:22:18][OP]OPDuplicateNode:Root/Group/Text 3D(Prop)
+
+[12:22:22][OP]OPChangeHierarchy:(Prop)
+
+[12:22:39][OP]OPNewNode:_NewNode/_Shape(Prop)
+
+[12:22:43][OP]OPParamModify:Root/Shape/Shape/Shape Type(Prop)
+
+[12:22:45][OP]OPParamModify:Root/Shape/Shape/Size(Prop)
+
+[12:22:48][OP]OPParamModify:Root/Shape/Shape/Fill Color(Prop)
+
+[12:23:40][OP]OPTimeLineModify:Root/Group(Prop)
+
+[12:23:42][Undo]OPTimeLineModify:Root/Group(Prop)
+
+[12:23:45][OP]OPTimeLineModify:Root/Shape(Prop)
+
+**************************
+[12:23:54]start saving project:Untitled(Prop)
+
+[12:23:55]finished saving project, time cost:1.02
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[12:23:57]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[12:25:38][OP]OPParamModify:Root/Text 3D/Text Animation/Randomize(Prop)
+
+[12:25:47][Undo]OPParamModify:Root/Text 3D/Text Animation/Randomize(Prop)
+
+[12:26:08][OP]OPParamModify:Root/Text 3D/Text Animation/Start Rot(Prop)
+
+[12:27:01][Undo]OPParamModify:Root/Text 3D/Text Animation/Start Rot(Prop)
+
+[12:29:38][OP]OPDuplicateNode:Root/Text 3D(Prop)
+
+[12:29:45][OP]OPDeleteNode:Root/Group/Text 3D(Prop)
+
+[12:29:49][OP]OPChangeHierarchy:(Prop)
+
+[12:30:25]Project Setting Changed:_export_resolution_preset(Export)
+
+[12:30:38]start saving project:Untitled(Export)
+
+[12:30:39]finished saving project, time cost:1.16
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[12:30:39][start export]1:1920:1080(Export)
+
+**************************
+[12:32:45][export finished](Export)
+
+[12:33:01]start saving project:Untitled(Export)
+
+[12:33:02]finished saving project, time cost:1.10
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[12:33:02][start export]1:1920:1080(Export)
+
+**************************
+[12:33:27]start saving project:Untitled(Export)
+
+[12:33:28]finished saving project, time cost:1.07
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[12:33:28][start export]1:1920:1080(Export)
+
+**************************
+[12:35:12][export finished](Export)
+
+[12:35:29]start saving project:Untitled(Export)
+
+[12:35:31]finished saving project, time cost:1.07
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[12:35:31][start export]1:1920:1080(Export)
+
+**************************
+[12:37:28]start saving project:Untitled(Export)
+
+[12:37:29]finished saving project, time cost:1.15
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[12:37:29][start export]1:1920:1080(Export)
+
+**************************
+[12:38:45][export finished](Export)
+
+[12:38:59]start saving project:Untitled(Prop)
+
+[12:39:01]finished saving project, time cost:2.74
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:45:24]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU3CWD2)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[19:45:24]Universal(Prop)
+
+[19:45:39]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[19:45:49]start saving project:Untitled(Export)
+
+[19:45:50]finished saving project, time cost:1.11
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[19:45:50][start export]1:1920:1080(Export)
+
+**************************
+[19:46:10]start saving project:Untitled(Export)
+
+[19:46:11]finished saving project, time cost:1.01
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[19:46:11][start export]1:1920:1080(Export)
+
+**************************
+[19:46:25]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU3CWD2)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[19:46:25]Universal(Prop)
+
+[19:46:35][-----Error Received-----](Home)
+
+[19:46:35]low memory warning received!!(Home)
+
+[19:46:35]NodeVideo.App:OnLowMemory()
+(Home)
+
+[19:46:35][------------------------](Home)
+
+[19:46:37]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[19:46:48][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[19:47:02][OP]OPParamModify:Root/Text 3D/Text 3D/Size(Prop)
+
+[19:48:03]start saving project:Untitled(Export)
+
+[19:48:04]finished saving project, time cost:1.20
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[19:48:04][start export]1:1920:1080(Export)
+
+**************************
+[19:49:20][export finished](Export)
+
+[19:49:34][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[19:49:55]start saving project:Untitled(Export)
+
+[19:49:56]finished saving project, time cost:1.09
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[19:49:56][start export]1:1920:1080(Export)
+
+**************************
+[20:20:07]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU3CWD2)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[20:20:07]Universal(Prop)
+
+[20:20:38]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[20:21:20][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[20:21:33][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Curve)
+
+[20:22:27][OP]OPParamModify:Root/Text 3D/Text Animation/Start Rot(Prop)
+
+[20:22:30][Undo]OPParamModify:Root/Text 3D/Text Animation/Start Rot(Prop)
+
+[20:22:35][OP]OPParamModify:Root/Text 3D/Text Animation/Start Rot(Curve)
+
+[20:23:01][OP]OPParamModify:Root/Text 3D/Text Animation/Randomize(Curve)
+
+[20:23:23][-----Error Received-----](Prop)
+
+[20:23:23]low memory warning received!!(Prop)
+
+[20:23:23]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[20:23:23][------------------------](Prop)
+
+[20:23:30]start saving project:Untitled(Export)
+
+[20:23:31]finished saving project, time cost:1.08
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[20:23:31][start export]1:1920:1080(Export)
+
+**************************
+[20:24:46][export finished](Export)
+
+[20:25:00][OP]OPDeleteNode:Root/Group/Text 3D(Prop)
+
+[20:25:04][OP]OPDuplicateNode:Root/Text 3D(Prop)
+
+[20:25:08][OP]OPChangeHierarchy:(Prop)
+
+**************************
+[20:25:48]start saving project:Untitled(Prop)
+
+[20:25:49]finished saving project, time cost:0.99
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[20:25:49]Destroying Node in OPDeleteNode:Text 3D(Prop)
+
+[20:25:50]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[20:26:40]start saving project:Untitled(Export)
+
+[20:26:41]finished saving project, time cost:1.06
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[20:26:41][start export]1:1920:1080(Export)
+
+**************************
+[16:17:23]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU3CWD2)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[16:17:23]Universal(Prop)
+
+[16:17:58]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[16:18:11][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:18:30][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[16:19:24][OP]OPParamModify:Root/Text 3D/Text 3D/Size(Prop)
+
+[16:19:32][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:20:36]start saving project:Untitled(Export)
+
+[16:20:37]finished saving project, time cost:1.14
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[16:20:37][start export]1:1920:1080(Export)
+
+**************************
+[16:21:52][export finished](Export)
+
+[16:22:15]start saving project:Untitled(Export)
+
+[16:22:16]finished saving project, time cost:1.10
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[16:22:16][start export]1:1920:1080(Export)
+
+**************************
+[16:23:24][-----Error Received-----](Export)
+
+[16:23:24]low memory warning received!!(Export)
+
+[16:23:24]NodeVideo.App:OnLowMemory()
+(Export)
+
+[16:23:24][------------------------](Export)
+
+[16:24:00][export finished](Export)
+
+[16:24:14]start saving project:Untitled(Prop)
+
+[16:24:16]finished saving project, time cost:2.48
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[22:48:41]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU3CWD2)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[22:48:41]Universal(Prop)
+
+[22:48:58]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:49:06]Project Setting Changed:_preview_resolution(Prop)
+
+[22:49:06][OP]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[22:49:32][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[22:49:42][Undo]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[22:49:43][Undo]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[22:49:44][-----Error Received-----](Prop)
+
+[22:49:44]low memory warning received!!(Prop)
+
+[22:49:44]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[22:49:44][------------------------](Prop)
+
+**************************
+[22:51:32]start saving project:Untitled(Prop)
+
+[22:51:32]finished saving project, time cost:0.18
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/979f1c3b-ff66-4702-bc10-c35eebf5c3db(Prop)
+
+[22:51:35]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+**************************
+[22:01:19]start saving project:Untitled(Prop)
+
+[22:01:19]finished saving project, time cost:0.21
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/979f1c3b-ff66-4702-bc10-c35eebf5c3db(Prop)
+
+[22:01:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:01:54][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[22:02:14][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:02:42][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[22:02:58][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[22:03:17][Undo]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[22:03:18][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:03:40]finished saving project, time cost:1.19
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[22:04:01][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[22:04:10][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[22:05:00][OP]OPParamModify:Root/Group/Glow/Scattering(Prop)
+
+[22:05:17][OP]OPParamModify:Root/Group/Glow Scan/Blend Mode(Prop)
+
+[22:05:25][OP]OPParamModify:Root/Group/Glow Scan/Channel(Prop)
+
+[22:06:10]start saving project:Untitled(Prop)
+
+[22:06:13]finished saving project, time cost:2.91
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[22:06:28]start saving project:Untitled(Prop)
+
+[22:06:30]finished saving project, time cost:1.06
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[17:28:45]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[17:28:45]Universal(Prop)
+
+[17:29:02]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[17:29:36][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+**************************
+[09:04:15]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[09:04:16]Universal(Prop)
+
+[09:04:22]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+**************************
+[18:27:10]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[18:27:10]Universal(Prop)
+
+[18:33:33]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[18:33:37][-----Error Received-----](Prop)
+
+[18:33:37]low memory warning received!!(Prop)
+
+[18:33:37]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[18:33:37][------------------------](Prop)
+
+**************************
+[15:14:16]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[15:14:16]Universal(Prop)
+
+[15:14:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[15:14:53][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[15:15:01][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[15:15:04][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[15:15:18][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[15:15:31][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[15:16:51]start saving project:Untitled(Export)
+
+[15:16:52]finished saving project, time cost:1.21
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:16:52][start export]1:1920:1080(Export)
+
+**************************
+[15:18:36][export finished](Export)
+
+**************************
+[15:30:05]start saving project:Untitled(Prop)
+
+[15:30:08]finished saving project, time cost:3.21
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/0c6ee6af-9cda-427f-9d66-f4effac0d4ba(Prop)
+
+[15:30:11]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[15:30:26][OP]OPChangeHierarchy:(Prop)
+
+[15:30:32]start saving project:Untitled(Export)
+
+[15:30:33]finished saving project, time cost:1.07
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:30:33][start export]1:1920:1080(Export)
+
+**************************
+[15:30:49]start saving project:Untitled(Export)
+
+[15:30:51]finished saving project, time cost:1.75
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+**************************
+[15:31:34]start saving project:Untitled(Export)
+
+[15:31:35]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:31:35][start export]1:1920:1080(Export)
+
+**************************
+[17:57:09]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[17:57:09]Universal(Prop)
+
+[17:57:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+**************************
+[20:18:03]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[20:18:03]Universal(Prop)
+
+[20:18:04][-----Error Received-----](Home)
+
+[20:18:04]low memory warning received!!(Home)
+
+[20:18:04]NodeVideo.App:OnLowMemory()
+(Home)
+
+[20:18:04][------------------------](Home)
+
+[20:18:22]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[20:18:43][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[20:18:51][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[20:19:09][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[20:19:18][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[20:20:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Spacing(Prop)
+
+[20:20:25][OP]OPParamModify:Root/Text 3D/Text 3D/Spacing(Prop)
+
+[20:21:08][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[20:21:14][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[20:21:42][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[20:21:49][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[20:22:07]start saving project:Untitled(Export)
+
+[20:22:08]finished saving project, time cost:1.16
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[20:22:08][start export]1:1920:1080(Export)
+
+**************************
+[21:17:46]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[21:17:46]Universal(Prop)
+
+[21:17:50]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[21:18:03][OP]OPChangeHierarchy:(Prop)
+
+[21:18:11]start saving project:Untitled(Export)
+
+[21:18:12]finished saving project, time cost:1.19
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[21:18:12][start export]1:1920:1080(Export)
+
+**************************
+[19:55:40]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[19:55:40]Universal(Prop)
+
+[19:55:44]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[19:56:04][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[19:56:10]start saving project:Untitled(Prop)
+
+[19:56:12]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:56:37][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:56:48][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+**************************
+[19:56:58]start saving project:Untitled(Prop)
+
+[19:56:59]finished saving project, time cost:1.05
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[19:57:01]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[19:57:08][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[19:57:34]finished saving project, time cost:1.06
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:57:54][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:58:12][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[19:58:33]start saving project:Untitled(Prop)
+
+[19:58:34]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:58:47][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:58:56]start saving project:Untitled(Prop)
+
+[19:58:57]finished saving project, time cost:1.06
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:59:24][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:59:29]start saving project:Untitled(Prop)
+
+[19:59:31]finished saving project, time cost:1.23
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[19:59:39][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[19:59:53][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+**************************
+[19:59:56]start saving project:Untitled(Prop)
+
+[19:59:57]finished saving project, time cost:1.08
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[19:59:59]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[20:00:14][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[20:00:50][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[20:01:26][OP]OPParamModify:Root/Text 3D/Text 3D/Face Color(Prop)
+
+[20:01:45][OP]OPParamModify:Root/Group/Glow Scan/Glow Color(Prop)
+
+[20:01:53][OP]OPParamModify:Root/Group/Glow/Glow Color(Prop)
+
+[20:02:19][-----Error Received-----](Export)
+
+[20:02:19]low memory warning received!!(Export)
+
+[20:02:19]NodeVideo.App:OnLowMemory()
+(Export)
+
+[20:02:19][------------------------](Export)
+
+[20:02:21]start saving project:Untitled(Export)
+
+[20:02:22]finished saving project, time cost:1.08
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[20:02:22][start export]1:1920:1080(Export)
+
+**************************
+[20:04:07][export finished](Export)
+
+[20:04:21][OP]OPChangeHierarchy:(Prop)
+
+[20:04:27]start saving project:Untitled(Export)
+
+[20:04:28]finished saving project, time cost:1.16
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[20:04:28][start export]1:1920:1080(Export)
+
+**************************
+[12:10:35]start saving project:Untitled(Prop)
+
+[12:10:35]finished saving project, time cost:0.18
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/e272fc46-e453-4a61-aebc-c9f472ec2fdc(Prop)
+
+[12:10:42]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[12:11:03][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[12:11:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:12:21]finished saving project, time cost:1.30
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[12:12:38][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[12:12:52]start saving project:Untitled(Prop)
+
+[12:12:55]finished saving project, time cost:3.11
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[12:13:13][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[12:13:24][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[12:13:52][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:14:10]start saving project:Untitled(Prop)
+
+[12:14:13]finished saving project, time cost:2.54
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[15:35:07]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[15:35:07]Universal(Prop)
+
+[15:35:11]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[15:36:37][OP]OPParamModify:Root/Group/Shape/Shape/Fill Color(Prop)
+
+[15:36:42][OP]OPParamModify:Root/Group/Glow/Glow Color(Prop)
+
+[15:37:09][OP]OPParamModify:Root/Text 3D/Text 3D/Face Color(Prop)
+
+[15:37:21][OP]OPChangeHierarchy:(Prop)
+
+[15:37:38]start saving project:Untitled(Export)
+
+[15:37:39]finished saving project, time cost:1.14
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:37:39][start export]1:1920:1080(Export)
+
+**************************
+[15:39:24][export finished](Export)
+
+[15:39:28][OP]OPChangeHierarchy:(Prop)
+
+[15:39:31]start saving project:Untitled(Export)
+
+[15:39:32]finished saving project, time cost:1.18
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:39:32][start export]1:1920:1080(Export)
+
+**************************
+[15:41:29]start saving project:Untitled(Prop)
+
+[15:41:32]finished saving project, time cost:3.01
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/0c6ee6af-9cda-427f-9d66-f4effac0d4ba(Prop)
+
+[15:41:34]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[15:41:36][-----Error Received-----](Prop)
+
+[15:41:36]low memory warning received!!(Prop)
+
+[15:41:36]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[15:41:36][------------------------](Prop)
+
+[15:41:44][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[15:41:49][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[15:41:55]start saving project:Untitled(Export)
+
+[15:41:56]finished saving project, time cost:1.09
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:41:56][start export]1:1920:1080(Export)
+
+**************************
+[15:43:18][export finished](Export)
+
+[15:43:26][OP]OPChangeHierarchy:(Prop)
+
+[15:43:33]start saving project:Untitled(Export)
+
+[15:43:34]finished saving project, time cost:1.20
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[15:43:34][start export]1:1920:1080(Export)
+
+**************************
+[22:25:39]start saving project:Untitled(Prop)
+
+[22:25:42]finished saving project, time cost:3.02
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/0c6ee6af-9cda-427f-9d66-f4effac0d4ba(Prop)
+
+[22:26:00]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:26:09][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:26:17][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[22:26:35]finished saving project, time cost:1.21
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[22:26:47][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[22:26:55][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:26:59][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+**************************
+[22:27:15]start saving project:Untitled(Prop)
+
+[22:27:16]finished saving project, time cost:1.22
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[22:27:18]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:27:29][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[22:27:33][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:27:38][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[22:27:56][OP]OPParamModify:Root/Text 3D/Text 3D/Face Color(Prop)
+
+[22:28:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[22:28:33][OP]OPParamModify:Root/Group/Glow Scan/Glow Color(Prop)
+
+[22:29:24][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[22:29:28][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Start Rot(Prop)
+
+[22:30:06][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[22:30:06][-----Error Received-----](Prop)
+
+[22:30:06]low memory warning received!!(Prop)
+
+[22:30:06]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[22:30:06][------------------------](Prop)
+
+[22:30:13][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Randomize(Prop)
+
+[22:32:06][OP]OPParamModify:Root/Group/Text 3D/Text Animation/Spacing(Prop)
+
+[22:32:08][Undo]OPParamModify:Root/Group/Text 3D/Text Animation/Spacing(Prop)
+
+[22:32:20][OP]OPDuplicateNode:Root/Group/Text 3D(Prop)
+
+[22:32:28][OP]OPChangeHierarchy:(Prop)
+
+[22:32:35][OP]OPDeleteNode:Root/Text 3D(Prop)
+
+[22:32:55]start saving project:Untitled(Export)
+
+[22:32:56]finished saving project, time cost:1.14
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[22:32:56][start export]1:1920:1080(Export)
+
+**************************
+[22:34:46][export finished](Export)
+
+[22:34:47]start saving project:Untitled(Export)
+
+[22:34:48]finished saving project, time cost:1.39
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[22:34:48][start export]1:1920:1080(Export)
+
+**************************
+[22:36:20]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[22:36:20]Universal(Prop)
+
+[22:36:28]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:36:59][OP]OPParamModify:Root/Group/Glow Scan/Scattering(Prop)
+
+[22:37:08][OP]OPParamModify:Root/Group/Glow Scan/Radius(Prop)
+
+[22:37:17][OP]OPParamModify:Root/Group/Glow Scan/Threshold(Prop)
+
+[22:37:30][OP]OPParamModify:Root/Group/Glow Scan/Intensity(Prop)
+
+**************************
+[22:37:44]start saving project:Untitled(Prop)
+
+[22:37:45]finished saving project, time cost:1.24
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[22:37:48]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[22:37:57]start saving project:Untitled(Export)
+
+[22:37:59]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[22:37:59][start export]1:1920:1080(Export)
+
+**************************
+[22:39:45][export finished](Export)
+
+[22:39:52]start saving project:Untitled(Prop)
+
+[22:39:53]finished saving project, time cost:1.28
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[22:40:42][OP]OPChangeHierarchy:(Prop)
+
+[22:40:47]start saving project:Untitled(Export)
+
+[22:40:48]finished saving project, time cost:1.22
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[22:40:48][start export]1:1920:1080(Export)
+
+**************************
+[22:42:14][export finished](Export)
+
+**************************
+[18:25:31]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[18:25:31]Universal(Prop)
+
+[18:25:32][-----Error Received-----](Home)
+
+[18:25:32]low memory warning received!!(Home)
+
+[18:25:32]NodeVideo.App:OnLowMemory()
+(Home)
+
+[18:25:32][------------------------](Home)
+
+[18:25:40]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[18:26:22][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[18:26:29][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[18:26:49][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[18:27:41]start saving project:Untitled(Prop)
+
+[18:27:42]finished saving project, time cost:1.09
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+**************************
+[18:28:37]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[18:28:37]Universal(Prop)
+
+[18:28:44]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[18:28:46][-----Error Received-----](Prop)
+
+[18:28:46]low memory warning received!!(Prop)
+
+[18:28:46]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[18:28:46][------------------------](Prop)
+
+[18:28:57][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[18:29:06][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[18:29:17][OP]OPChangeHierarchy:(Prop)
+
+[18:29:31]start saving project:Untitled(Export)
+
+[18:29:32]finished saving project, time cost:1.04
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[18:29:32][start export]1:1920:1080(Export)
+
+**************************
+[18:31:16][export finished](Export)
+
+[18:32:09][OP]OPChangeHierarchy:(Prop)
+
+[18:32:13]start saving project:Untitled(Export)
+
+[18:32:14]finished saving project, time cost:1.13
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[18:32:14][start export]1:1920:1080(Export)
+
+**************************
+[14:41:15][-----Error Received-----](Prop)
+
+[14:41:15]low memory warning received!!(Prop)
+
+[14:41:15]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[14:41:15][------------------------](Prop)
+
+[14:41:15]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[14:41:15]Universal(Prop)
+
+[14:41:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+[14:41:29][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[14:41:37][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[14:41:56]start saving project:Untitled(Export)
+
+[14:41:57]finished saving project, time cost:1.19
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[14:41:57][start export]1:1920:1080(Export)
+
+**************************
+[14:43:22][export finished](Export)
+
+[14:43:27][OP]OPChangeHierarchy:(Prop)
+
+[14:43:32]start saving project:Untitled(Export)
+
+[14:43:33]finished saving project, time cost:1.13
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Export)
+
+[14:43:33][start export]1:1920:1080(Export)
+
+**************************
+[22:13:09]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[22:13:09]Universal(Prop)
+
+[22:13:42]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d/Untitled.nv(Home)
+
+**************************
+[22:13:53]start saving project:Untitled(Prop)
+
+[22:13:54]finished saving project, time cost:1.12
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/25efe006-40c5-43f3-a357-1652458efb8d(Prop)
+
+[22:14:14]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/44018690-d79c-4a7d-aa4b-48e39a8ab419/Untitled.nv(Home)
+
+[22:14:21]Project Setting Changed:_preview_resolution(Prop)
+
+[22:14:22][OP]OPParamModify:Root/Project Settings/Preview Resolution(Prop)
+
+[22:14:27][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[22:14:35][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[22:14:58][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Material(Prop)
+
+[22:15:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+[22:15:29][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Face Color(Prop)
+
+[22:15:50][OP]OPParamModify:Root/Text 3D/Text 3D/Face Color(Prop)
+
+[22:16:17][OP]OPParamModify:Root/Text 3D/Text 3D/Style(Prop)
+
+**************************
+[15:56:43]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[15:56:43]Universal(Prop)
+
+[15:56:51]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/44018690-d79c-4a7d-aa4b-48e39a8ab419/Untitled.nv(Home)
+
+**************************
+[12:22:46][-----Error Received-----](Prop)
+
+[12:22:46]low memory warning received!!(Prop)
+
+[12:22:46]NodeVideo.App:OnLowMemory()
+(Prop)
+
+[12:22:46][------------------------](Prop)
+
+[12:22:46]App Started:DeviceModel:samsung SM-A035F|OS:Android OS 13 / API-33 (TP1A.220624.014/A035FXXU4CWF3)|SysMem:2547|GPUMem:2536|GraphicsDevice:Mali-G57|ShaderLevel:50
+DeviceStr:88fe25c3b6ef6a531f2633f8fa4f46c8(Prop)
+
+[12:22:46]Universal(Prop)
+
+[12:22:57]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/44018690-d79c-4a7d-aa4b-48e39a8ab419/Untitled.nv(Home)
+
+[12:23:42]start saving project:Untitled(Prop)
+
+[12:23:45]finished saving project, time cost:3.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/44018690-d79c-4a7d-aa4b-48e39a8ab419(Prop)
+
+**************************
+**************************
+[16:42:31]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[16:42:31]Universal(Prop)
+
+[16:45:49]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[16:45:50]patching for data version:1.5.7(Home)
+
+[16:45:56][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:46:02][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:46:11]start saving project:Untitled(Export)
+
+[16:46:12]finished saving project, time cost:0.72
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[16:46:36][export finished](Export)
+
+[16:46:53]start saving project:Untitled(Export)
+
+[16:46:54]finished saving project, time cost:0.76
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[14:35:49]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[14:35:49]Universal(Prop)
+
+[14:35:56][-----Error Received-----](Home)
+
+[14:35:56]load project failed:End of Central Directory record could not be found.(Home)
+
+[14:35:56]NodeVideo.UI.<>c__DisplayClass53_1:<OnClickLoad>b__6()
+DG.Tweening.Tween:OnTweenCallback(TweenCallback)
+DG.Tweening.Sequence:ApplyInternalCycle(Sequence, Single, Single, UpdateMode, Boolean, Boolean, Boolean)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single)
+DG.Tweening.Core.DOTweenComponent:Update()
+(Home)
+
+[14:35:56][------------------------](Home)
+
+[14:36:02]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[14:36:07][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[14:36:21][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[14:36:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[14:36:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[14:36:40]Project Setting Changed:_export_resolution_preset(Export)
+
+[14:36:42]start saving project:Untitled(Export)
+
+[14:36:43]finished saving project, time cost:0.80
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[14:36:52][export finished](Export)
+
+[14:36:57]start saving project:Untitled(Export)
+
+[14:36:58]finished saving project, time cost:0.69
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[14:37:10][export finished](Export)
+
+[14:37:13]start saving project:Untitled(Prop)
+
+[14:37:14]finished saving project, time cost:1.47
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[13:55:22]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[13:55:22]Universal(Prop)
+
+[13:55:27]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[13:55:32][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[13:55:40][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[13:55:48]start saving project:Untitled(Export)
+
+[13:55:49]finished saving project, time cost:0.76
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[13:56:02][export finished](Export)
+
+[13:56:18]start saving project:Untitled(Export)
+
+[13:56:19]finished saving project, time cost:0.64
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[13:56:27][export finished](Export)
+
+[13:56:30]start saving project:Untitled(Prop)
+
+[13:56:31]finished saving project, time cost:0.69
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[10:47:23]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[10:47:23]Universal(Prop)
+
+[10:47:28]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[10:47:35][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[10:47:47][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[10:48:03]start saving project:Untitled(Export)
+
+[10:48:04]finished saving project, time cost:0.70
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[10:48:16][export finished](Export)
+
+[10:48:41]start saving project:Untitled(Export)
+
+[10:48:41]finished saving project, time cost:0.65
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[10:48:50][export finished](Export)
+
+[10:48:54]start saving project:Untitled(Prop)
+
+[10:48:55]finished saving project, time cost:1.01
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[12:37:30]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[12:37:30]Universal(Prop)
+
+[12:37:33]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[12:37:39][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[12:37:49][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:38:12]start saving project:Untitled(Export)
+
+[12:38:12]finished saving project, time cost:0.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:38:22][export finished](Export)
+
+[12:38:28][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[12:38:37]start saving project:Untitled(Export)
+
+[12:38:37]finished saving project, time cost:0.66
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:38:46][export finished](Export)
+
+[12:38:48]start saving project:Untitled(Prop)
+
+[12:38:49]finished saving project, time cost:0.96
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[12:05:08]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[12:05:08]Universal(Prop)
+
+[12:05:13]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[12:05:24][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[12:05:30][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[12:05:33][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[12:05:40][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[12:05:56]start saving project:Untitled(Export)
+
+[12:05:56]finished saving project, time cost:0.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:06:06][export finished](Export)
+
+[12:06:13]start saving project:Untitled(Export)
+
+[12:06:14]finished saving project, time cost:0.66
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:11:00]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[12:11:00]Universal(Prop)
+
+[12:11:03]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[12:11:25][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[12:11:31][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[12:11:42]start saving project:Untitled(Export)
+
+[12:11:43]finished saving project, time cost:0.80
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:11:56][export finished](Export)
+
+[12:12:06]start saving project:Untitled(Export)
+
+[12:12:07]finished saving project, time cost:0.81
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[12:12:15][export finished](Export)
+
+[12:12:18]start saving project:Untitled(Prop)
+
+[12:12:19]finished saving project, time cost:1.46
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[14:13:15]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[14:13:15]Universal(Prop)
+
+[14:13:20]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[14:13:30]start saving project:Untitled(Prop)
+
+[14:13:31]finished saving project, time cost:0.70
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[14:13:40][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[14:13:43][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[14:13:53]start saving project:Untitled(Export)
+
+[14:13:53]finished saving project, time cost:0.65
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[14:14:09][export finished](Export)
+
+[14:14:16][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[14:14:22][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[14:14:29]start saving project:Untitled(Prop)
+
+[14:14:29]finished saving project, time cost:0.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[14:14:32][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[14:14:41]start saving project:Untitled(Export)
+
+[14:14:42]finished saving project, time cost:0.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[14:15:03][export finished](Export)
+
+[14:15:07]start saving project:Untitled(Prop)
+
+[14:15:07]finished saving project, time cost:0.73
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[17:54:35]start saving project:Untitled(Prop)
+
+[17:54:35]finished saving project, time cost:0.43
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a158526f-f163-4b42-8cf8-16a9b44b9d1d(Prop)
+
+[17:54:38]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[17:54:56][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+**************************
+[16:20:01]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[16:20:01]Universal(Prop)
+
+[16:20:05]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[16:20:13][OP]OPParamModify:Root/Text 3D/Text 3D/Font(Prop)
+
+[16:20:22][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:20:35][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:20:42][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Font(Prop)
+
+[16:20:55]start saving project:Untitled(Export)
+
+[16:20:56]finished saving project, time cost:0.70
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[16:21:09][export finished](Export)
+
+[16:21:13][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:21:22][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:21:38]start saving project:Untitled(Prop)
+
+[16:21:39]finished saving project, time cost:1.08
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[16:22:21][OP]OPParamModify:Root/Text 3D/Text 3D/Size(Prop)
+
+[16:22:32][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[16:23:07]start saving project:Untitled(Export)
+
+[16:23:08]finished saving project, time cost:0.67
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[16:23:21][export finished](Export)
+
+[16:23:26][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:23:32][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:23:44]start saving project:Untitled(Export)
+
+[16:23:45]finished saving project, time cost:0.67
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[16:23:57][export finished](Export)
+
+[16:24:00][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[16:24:19][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[16:24:49]start saving project:Untitled(Export)
+
+[16:24:50]finished saving project, time cost:0.67
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[16:25:04][export finished](Export)
+
+[16:25:08]start saving project:Untitled(Prop)
+
+[16:25:09]finished saving project, time cost:1.36
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[21:04:46]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[21:04:46]Universal(Prop)
+
+[21:04:49]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[21:04:54]start saving project:Untitled(Export)
+
+[21:04:54]finished saving project, time cost:0.70
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[21:05:12][export finished](Export)
+
+[21:05:19][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[21:05:33][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[21:05:47]start saving project:Untitled(Export)
+
+[21:05:47]finished saving project, time cost:0.64
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[21:06:02][export finished](Export)
+
+[21:06:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[21:06:10][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[21:06:20]start saving project:Untitled(Export)
+
+[21:06:20]finished saving project, time cost:0.68
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[21:06:33][export finished](Export)
+
+[21:06:37][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[21:06:46][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[21:06:56]start saving project:Untitled(Export)
+
+[21:06:57]finished saving project, time cost:0.69
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[21:07:09][export finished](Export)
+
+[21:07:12]start saving project:Untitled(Prop)
+
+[21:07:13]finished saving project, time cost:1.53
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[21:13:02]App Started:DeviceModel:Xiaomi Redmi Note 7 Pro|OS:Android OS 10 / API-29 (QKQ1.190915.002/V12.5.1.0.QFHINXM)|SysMem:5608|GPUMem:1768|GraphicsDevice:Adreno (TM) 612|ShaderLevel:50
+DeviceStr:ea532cfcd91423cd8233afca8de31c3f(Prop)
+
+[21:13:02]Universal(Prop)
+
+[21:13:05]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077/Untitled.nv(Home)
+
+[21:13:09][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[21:13:31][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[21:13:58]start saving project:Untitled(Export)
+
+[21:13:59]finished saving project, time cost:0.72
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Export)
+
+**************************
+[21:14:12][export finished](Export)
+
+[21:14:20]start saving project:Untitled(Prop)
+
+[21:14:21]finished saving project, time cost:1.35
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/4bc7ebdf-3094-494f-9ea0-aef3722ba077(Prop)
+
+**************************
+[2025-05-17 22:27:28]start saving project:Untitled(Prop)
+
+[2025-05-17 22:27:28]finished saving project, time cost:0.15
+/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/3e7b3b73-bcca-40f0-adbc-18798438b6ab(Prop)
+
+[2025-05-17 22:27:28]deleted empty font folder(Prop)
+
+[2025-05-17 22:27:58]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Untitled.nv(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/BTTF.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/BlackBrutal.otf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Bloodsoul PERSONAL USE ONLY!.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Darkmist.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Heroes Legend.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/High Speed.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Mouser.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/NewWaltDisneyFontRegular-BPen.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Over There.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/SOLVAST.otf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/TYPOGRAPH PRO Extra Bold.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Valorant Font.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/Van Helsing.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/_1TYPOGRAPH PRO Extra Bold.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/font990.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/msf:1000027742.ttf(Home)
+
+[2025-05-17 22:27:59]deleted unused local font:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/Fonts/msf:1000031353.ttf(Home)
+
+[2025-05-17 22:27:59]patching for data version:1.5.8(Home)
+
+[2025-05-17 22:28:16][OP]OPParamModify:Root/Group/Glow Scan/Glow Color(Prop)
+
+[2025-05-17 22:29:00][Undo]OPParamModify:Root/Group/Glow Scan/Glow Color(Prop)
+
+[2025-05-17 22:29:12][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Text(Prop)
+
+[2025-05-17 22:29:31][OP]OPParamModify:Root/Text 3D/Text 3D/Text(Prop)
+
+[2025-05-17 22:29:47][OP]OPParamModify:Root/Text 3D/Text 3D/Size(Prop)
+
+[2025-05-17 22:29:53][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Size(Prop)
+
+[2025-05-17 22:30:06][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+[2025-05-17 22:30:15][Undo]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
+**************************
+[2025-05-18 10:58:03]App Started:App Version:7.1.6|DeviceModel:INFINIX MOBILITY LIMITED Infinix X6815|OS:Android OS 12 / API-31 (SP1A.210812.016/221207V212)|GraphicsDevice:Mali-G68 MC4|DeviceStr:89115cf070c25b80897ee04c64ffc37c(Prop)
+
+[2025-05-18 10:58:03]Universal(Prop)
+
+[2025-05-18 10:58:05]Load Project:/storage/emulated/0/Android/data/com.shallwaystudio.nodevideo/files/Projects/a23934c3-aad1-4f58-abb3-8f5e387736ce/3DText:by.izzo.nv(Home)
+
+[2025-05-18 10:58:16]Project Setting Changed:_fps(Prop)
+
+[2025-05-18 10:58:16][OP]OPParamModify:Root/Project Settings/FPS(Prop)
+
+[2025-05-18 10:58:23]Project Setting Changed:_resolution_preset(Prop)
+
+[2025-05-18 10:58:23][OP]OPParamModify:Root/Project Settings/Ratio(Prop)
+
+[2025-05-18 10:58:33]Project Setting Changed:_preview_render_mode(Prop)
+
+[2025-05-18 10:58:33][OP]OPParamModify:Root/Project Settings/Preview Render Mode(Prop)
+
+[2025-05-18 10:59:00][OP]OPParamModify:Root/Group/Text 3D/Text 3D/Environment Texture(Prop)
+
